@@ -6,7 +6,7 @@ This service utilizes open source model yolov8s to perform object detection in i
 - Streamlit
 - Docker
 
-### Build and run the docker container
+#### Build and run the docker container
 ```
 docker-compose up -d
 ```
